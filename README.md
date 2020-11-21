@@ -1,2 +1,2 @@
 # PatatapClone
-Clone of a popular Website Patatap.com
+Replica of a popular Website Patatap.com
